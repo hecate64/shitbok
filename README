@@ -13,3 +13,7 @@ bokshitbok   = if block currently pointed to's value is not zero, jump back to b
 bokbokshit   = like c getchar(). input 1 character.
 bokbokbok    = like c putchar(). print 1 character to the console
 '''
+
+During my internship, my advisor told me a story about his son using the word 'shit' and the turkish word of 'shit' together.
+He also told me that the two combination can chained more than once.
+At that point, I knew 'shit' and 'bok' can be turing complete. 
